@@ -1,5 +1,4 @@
 ### Hey! Eu sou a Jennifer Mayumi  👋
-    No momento estou estudando desenvolvimento web na Digital House, no curso CTD (Certified Tech Developer).
 
 <div>
   <a href="https://github.com/jeennimay">
