@@ -1,4 +1,4 @@
-### Prazer, Jennifer Mayumi  👋
+### Nice to meet you, I'm Jennifer Mayumi  👋
 #
 ###### - 👩‍💻 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil
 
