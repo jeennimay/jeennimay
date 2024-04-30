@@ -1,7 +1,8 @@
 ### Hi, I'm Jeennimay - Jennifer Mayumi  👋
 #
-###### - 👩‍💻 <a href="https://smartplayer.ai/">Smartplayer </a> by Scaleup
-###### - 👩‍🎓 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil
+###### - 👩‍💻 Front End developer at <a href="https://smartplayer.ai/">Smartplayer </a> by Scaleup
+###### - 👩‍🎓 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil in 2022
+###### - 👩‍🎓 <a href="https://web.dio.me/track/santander-2024-backend-com-java">Santander 2024 - Backend com Java </a> by Dio in 2024
 
 <br>
 <div>
@@ -27,7 +28,8 @@
 ##
   
 <br>
-<div> 
+<div>
+  <a href="https://downgit.github.io/#/home?url=https://github.com/jeennimay/jeennimay/blob/main/CV_Jennifer_Mayumi.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculum-purple?style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeennimay/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jeennimay/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:mayumi.jenni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email_me-blue?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
