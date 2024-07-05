@@ -1,8 +1,7 @@
 ### Hi, I'm Jeennimay - Jennifer Mayumi  👋
 #
 ###### - 👩‍💻 Front End developer at <a href="https://smartplayer.ai/">Smartplayer </a> by Scaleup
-###### - 👩‍🎓 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil in 2022
-###### - 👩‍🎓 <a href="https://web.dio.me/track/santander-2024-backend-com-java">Santander 2024 - Backend com Java </a> by Dio in 2024
+###### - 👩‍🎓 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil in 2022.
 
 <br>
 <div>
