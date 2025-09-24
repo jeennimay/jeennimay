@@ -1,7 +1,8 @@
 ### Hi, I'm Jeennimay - Jennifer Mayumi  👋
 #
-###### - 👩‍💻 Front End developer at <a href="https://smartplayer.ai/">Smartplayer </a> by Scaleup
-###### - 👩‍🎓 <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Certified Tech Developer </a> by Digital House Brazil in 2022.
+###### - 👩‍💻 Front End developer at [Webmotors](https://www.webmotors.com.br/solutions/quemsomos)
+###### - 👩‍🎓 [Pós-graduação Tech developer 360 com Inteligência Artificial](https://www.rocketseat.com.br/faculdade/tech-developer-360) by Rocketseat in 2025.
+###### - 👩‍🎓 [Certified Tech Developer](https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer) by Digital House Brazil in 2022.
 
 <br>
 <div>
@@ -16,12 +17,16 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="react native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original-wordmark.svg" />
   <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="StyledComponent" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styledcomponents/styledcomponents-original-wordmark.svg">
+   <img align="center" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div> 
   
 ##
